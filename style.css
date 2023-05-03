@@ -1,0 +1,12 @@
+.title {
+    color: Red;
+    background-color: #F5F5F5;
+    padding: 10px 20px;
+    width: fit-content;
+    margin: 20px auto;
+}
+.title h2 {
+    color: Red;
+    background-color: #F5F5F5;
+    margin: 0px;
+}
